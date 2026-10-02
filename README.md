@@ -8,5 +8,5 @@
 🚀 Technologies & Tools:
 Data Analytics: Excel, Power BI, SQL, Tableau
 🔍 Exploring tools like Excel, Power BI, SQL, and Tableau for data analysis and dashboard reporting
-💼 My Professional Journey: Credit and lending professional with more than eight years of microfinance experience across credit analysis, loan structuring, portfolio monitoring, and recovery. Approved over ₦700 million in micro, SME, and housing loans, maintained a 98% loan repayment rate, cut the loan default rate from 2% to 1.05%, and now manages a ₦800 million portfolio as a Branch Manager.
+💼 My Professional Journey: Credit and lending professional with more than seven years of microfinance experience across credit analysis, loan structuring, portfolio monitoring, and recovery. Approved over ₦700 million in micro, SME, and housing loans, maintained a 98% loan repayment rate, cut the loan default rate from 2% to 1.05%, and now manages a ₦800 million portfolio as a Branch Manager.
 📚 What I'm Working On: I'm focusing on data entry, data analytics, using data-driven insights to make better decisions.
